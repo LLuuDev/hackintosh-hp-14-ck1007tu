@@ -1,0 +1,1 @@
+# hackintosh-hp-ck1007tu
