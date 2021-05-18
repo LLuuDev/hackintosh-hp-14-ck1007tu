@@ -1,3 +1,3 @@
 # hackintosh-hp-ck1007tu
-Except Sleep & hdmi
+Except Sleep
 All patched 
