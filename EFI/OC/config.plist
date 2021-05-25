@@ -216,7 +216,7 @@
 				<key>AAPL,GfxYTile</key>
 				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>CQClPg==</data>
+				<data>AACbPg==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
@@ -1004,7 +1004,7 @@
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 				<key>boot-args</key>
-				<string>alcid=3</string>
+				<string>alcid=16</string>
 				<key>prev-lang:kbd</key>
 				<data></data>
 				<key>run-efi-updater</key>
